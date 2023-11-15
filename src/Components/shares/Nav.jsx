@@ -1,0 +1,35 @@
+import React from 'react';
+import { NavLink } from 'react-router-dom';
+
+const Nav = () => {
+    return (
+        <div>
+
+            <div className="navbar  px-20">
+                <div className="flex-1">
+                    <NavLink
+                        to="/" className="pr-4">
+                        Home
+                    </NavLink>
+                    <NavLink
+                        to="/room" className="pr-4">
+                        Rooms
+                    </NavLink>
+                    <NavLink
+                        to="/service" className="pr-4">
+                        Service
+                    </NavLink>
+                </div>
+                <div className="flex-none">
+                    <button className="btn btn-square btn-ghost">
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" className="inline-block w-5 h-5 stroke-current"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 12h.01M12 12h.01M19 12h.01M6 12a1 1 0 11-2 0 1 1 0 012 0zm7 0a1 1 0 11-2 0 1 1 0 012 0zm7 0a1 1 0 11-2 0 1 1 0 012 0z"></path></svg>
+                    </button>
+                </div>
+            </div>
+
+
+        </div>
+    );
+};
+
+export default Nav;
