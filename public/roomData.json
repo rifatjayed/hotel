@@ -1,0 +1,337 @@
+ [
+      {
+        "roomNumber": 101,
+        "roomName": "Deluxe Ocean View Suite",
+        "description": "A luxurious suite with a stunning view of the ocean. Perfect for a romantic getaway.",
+        "roomSize": "500 sq ft",
+        "bed": "King-size bed",
+        "view": "Ocean View",
+        "price": 300,
+        "imgUrl":"/src/assets/img/studio-sea-view.jpg",
+        "smoking": false,
+        "reviews": [
+          {
+            "username": "HappyTraveler123",
+            "rating": 4.5,
+            "comment": "The ocean view from the suite was breathtaking! The room was spacious and well-appointed. Great value for the price."
+          },
+          {
+            "username": "VacationDreamer",
+            "rating": 5,
+            "comment": "Exceptional service and luxurious accommodations. This suite made our vacation truly memorable."
+          }
+        ]
+      },
+      {
+        "roomNumber": 102,
+        "roomName": "Premium Beachfront Villa",
+        "description": "An exclusive villa with direct beach access and private amenities.",
+        "roomSize": "800 sq ft",
+        "bed": "California King-size bed",
+        "view": "Beachfront View",
+        "price": 500,
+        "imgUrl":"/src/assets/img/royal-paradise-suite.jpg",
+        "smoking": false,
+        "reviews": [
+          {
+            "username": "BeachLover456",
+            "rating": 5,
+            "comment": "The beachfront villa exceeded our expectations. Private and luxurious. Worth every penny!"
+          },
+          {
+            "username": "LuxurySeeker789",
+            "rating": 4.8,
+            "comment": "Spacious, well-designed villa with top-notch amenities. The beach view was spectacular."
+          }
+        ]
+      },
+      {
+        "roomNumber": 103,
+        "roomName": "Family Suite with Balcony",
+        "description": "A family-friendly suite with a private balcony and scenic views.",
+        "roomSize": "600 sq ft",
+        "bed": "Queen-size bed, Twin-size bunk beds",
+        "view": "Garden View",
+        "price": 400,
+        "imgUrl":"/src/assets/img/studio-sea-view.jpg",
+        "smoking": false,
+        "reviews": [
+          {
+            "username": "FamilyExplorer456",
+            "rating": 4.2,
+            "comment": "Ideal for a family vacation. The balcony offered a great space for relaxation, and the garden view was lovely."
+          },
+          {
+            "username": "TravelingTribe",
+            "rating": 4.5,
+            "comment": "Spacious and family-friendly. The bunk beds were a hit with the kids!"
+          }
+        ]
+      },
+      {
+        "roomNumber": 104,
+        "roomName": "Panoramic Suite",
+        "description": "Experience panoramic views of the city skyline in this stylish suite.",
+        "roomSize": "550 sq ft",
+        "bed": "King-size bed",
+        "view": "City Skyline View",
+        "price": 350,
+        "smoking": false,
+        "reviews": [
+          {
+            "username": "CityExplorer789",
+            "rating": 4.7,
+            "comment": "The city skyline view from the suite was breathtaking. The room was modern and comfortable."
+          },
+          {
+            "username": "SkylineAdmirer",
+            "rating": 4.5,
+            "comment": "Spectacular views! The suite was well-designed, and the amenities were top-notch."
+          }
+        ]
+      },
+      {
+        "roomNumber": 105,
+        "roomName": "Cozy Mountain View Room",
+        "description": "A cozy room with a view of the picturesque mountains.",
+        "roomSize": "400 sq ft",
+        "bed": "Double bed",
+        "view": "Mountain View",
+        "price": 250,
+        "smoking": true,
+        "reviews": [
+          {
+            "username": "NatureEnthusiast456",
+            "rating": 4,
+            "comment": "A charming room with a beautiful mountain view. Perfect for nature lovers."
+          },
+          {
+            "username": "MountainExplorer",
+            "rating": 3.8,
+            "comment": "The mountain view room was cozy and provided a relaxing atmosphere."
+          }
+        ]
+      },
+      {
+        "roomNumber": 106,
+        "roomName": "Executive City View Suite",
+        "description": "An executive suite with a commanding view of the city.",
+        "roomSize": "600 sq ft",
+        "bed": "King-size bed",
+        "view": "City View",
+        "price": 400,
+        "smoking": false,
+        "reviews": [
+          {
+            "username": "BusinessTraveler123",
+            "rating": 4.5,
+            "comment": "Perfect for business trips. The city view added a touch of sophistication to the suite."
+          },
+          {
+            "username": "LuxuryNomad",
+            "rating": 4.3,
+            "comment": "Spacious and well-equipped. The city view suite provided a comfortable and stylish stay."
+          }
+        ]
+      },
+      {
+        "roomNumber": 107,
+        "roomName": "Sunset Beach Bungalow",
+        "description": "A private bungalow with direct access to the beach and a view of the sunset.",
+        "roomSize": "700 sq ft",
+        "bed": "California King-size bed",
+        "view": "Beachfront View",
+        "price": 550,
+        "smoking": false,
+        "reviews": [
+          {
+            "username": "SunsetAdmirer789",
+            "rating": 5,
+            "comment": "Unparalleled sunset views! The beach bungalow was a dreamy escape with luxurious amenities."
+          },
+          {
+            "username": "BeachSunsetLover",
+            "rating": 4.8,
+            "comment": "The sunset beach bungalow offered a private and romantic retreat. Highly recommended!"
+          }
+        ]
+      },
+      {
+        "roomNumber": 108,
+        "roomName": "Business Class Suite",
+        "description": "A sophisticated suite designed for business travelers with modern amenities.",
+        "roomSize": "500 sq ft",
+        "bed": "King-size bed",
+        "view": "City View",
+        "price": 350,
+        "smoking": false,
+        "reviews": [
+          {
+            "username": "CorporateTraveler456",
+            "rating": 4.2,
+            "comment": "Excellent for business trips. The suite was well-equipped, and the city view added a professional touch."
+          },
+          {
+            "username": "ExecutiveExplorer",
+            "rating": 4.5,
+            "comment": "Spacious and comfortable. The business class suite offered a productive and enjoyable stay."
+          }
+        ]
+      },
+      {
+        "roomNumber": 109,
+        "roomName": "Family Oceanfront Suite",
+        "description": "A spacious suite with direct oceanfront views, perfect for family vacations.",
+        "roomSize": "700 sq ft",
+        "bed": "King-size bed, Twin-size sofa bed",
+        "view": "Oceanfront View",
+        "price": 450,
+        "smoking": false,
+        "reviews": [
+          {
+            "username": "FamilyTraveler789",
+            "rating": 4.7,
+            "comment": "Ideal for families. The oceanfront view and spacious suite made our family vacation memorable."
+          },
+          {
+            "username": "OceanViewAdventures",
+            "rating": 4.5,
+            "comment": "The family suite was comfortable and had a mesmerizing oceanfront view. Great for a family getaway!"
+          }
+        ]
+      },
+      {
+        "roomNumber": 110,
+        "roomName": "Classic Garden View Room",
+        "description": "A classic room with a serene view of the hotel's beautiful garden.",
+        "roomSize": "350 sq ft",
+        "bed": "Queen-size bed",
+        "view": "Garden View",
+        "price": 200,
+        "smoking": true,
+        "reviews": [
+          {
+            "username": "GardenLover123",
+            "rating": 4,
+            "comment": "The garden view room was charming and peaceful. A delightful stay for nature enthusiasts."
+          },
+          {
+            "username": "SereneRetreat",
+            "rating": 3.8,
+            "comment": "A comfortable room with a lovely garden view. Perfect for a relaxing retreat."
+          }
+        ]
+      },
+      {
+        "roomNumber": 111,
+        "roomName": "Skyline View Studio",
+        "description": "A stylish studio with panoramic views of the city skyline.",
+        "roomSize": "450 sq ft",
+        "bed": "Queen-size bed",
+        "view": "City Skyline View",
+        "price": 300,
+        "smoking": false,
+        "reviews": [
+          {
+            "username": "CityViewExplorer",
+            "rating": 4.5,
+            "comment": "The skyline view studio was modern and chic. The cityscape view added a touch of glamour to our stay."
+          },
+          {
+            "username": "UrbanNomad",
+            "rating": 4.3,
+            "comment": "Well-designed and comfortable. The skyline view studio provided a stylish and enjoyable experience."
+          }
+        ]
+      },
+      {
+        "roomNumber": 112,
+        "roomName": "Nature Retreat Cabin",
+        "description": "A cozy cabin nestled in nature with scenic views and rustic charm.",
+        "roomSize": "300 sq ft",
+        "bed": "Double bed",
+        "view": "Nature View",
+        "price": 150,
+        "smoking": true,
+        "reviews": [
+          {
+            "username": "NatureEscape456",
+            "rating": 4,
+            "comment": "A charming nature retreat! The cabin was cozy and surrounded by beautiful scenery."
+          },
+          {
+            "username": "RusticExplorer",
+            "rating": 3.8,
+            "comment": "A unique and rustic experience. The nature retreat cabin was a peaceful getaway."
+          }
+        ]
+      },
+      {
+        "roomNumber": 113,
+        "roomName": "Cityscape View Loft",
+        "description": "A trendy loft with expansive windows offering panoramic cityscape views.",
+        "roomSize": "500 sq ft",
+        "bed": "King-size bed",
+        "view": "Cityscape View",
+        "price": 350,
+        "smoking": false,
+        "reviews": [
+          {
+            "username": "UrbanExplorer789",
+            "rating": 4.7,
+            "comment": "The cityscape view loft was modern and spacious. The floor-to-ceiling windows provided an impressive urban view."
+          },
+          {
+            "username": "CityLifeAdmirer",
+            "rating": 4.5,
+            "comment": "Stylish and comfortable. The cityscape view loft offered a chic and urban escape."
+          }
+        ]
+      },
+      {
+        "roomNumber": 114,
+        "roomName": "Riverside Retreat Cottage",
+        "description": "A charming cottage by the riverside, providing a serene and peaceful escape.",
+        "roomSize": "400 sq ft",
+        "bed": "Queen-size bed",
+        "view": "Riverside View",
+        "price": 250,
+        "smoking": true,
+        "reviews": [
+          {
+            "username": "RiversideRelaxer123",
+            "rating": 4.2,
+            "comment": "The riverside retreat cottage was a tranquil haven. The riverside view added to the overall peaceful atmosphere."
+          },
+          {
+            "username": "NatureSeeker456",
+            "rating": 4.5,
+            "comment": "Charming and peaceful. The riverside cottage provided a delightful escape by the water."
+          }
+        ]
+      },
+      {
+        "roomNumber": 115,
+        "roomName": "Economy Single Room",
+        "description": "A cozy single room suitable for solo travelers on a budget.",
+        "roomSize": "200 sq ft",
+        "bed": "Twin-size bed",
+        "view": "City View",
+        "price": 80,
+        "smoking": true,
+        "reviews": [
+          {
+            "username": "BudgetExplorer",
+            "rating": 3.5,
+            "comment": "Affordable and clean. Good for a short stay. The city view was decent."
+          },
+          {
+            "username": "SoloAdventurer",
+            "rating": 3,
+            "comment": "Basic room, but served its purpose. Ideal for budget-conscious solo travelers."
+          }
+        ]
+      }
+    ]
+ 
+  

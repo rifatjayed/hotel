@@ -19,7 +19,7 @@ const router = createBrowserRouter([
       {
         path: "/",
         element: <Home></Home>,
-       
+        loader:()=> fetch("/public/roomData.json"),
       },
       {
         path: "service",
