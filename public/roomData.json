@@ -1,6 +1,6 @@
  [
       {
-        "roomNumber": 101,
+        "roomNumber": 1,
         "roomName": "Deluxe Ocean View Suite",
         "description": "A luxurious suite with a stunning view of the ocean. Perfect for a romantic getaway.",
         "roomSize": "500 sq ft",
@@ -23,7 +23,7 @@
         ]
       },
       {
-        "roomNumber": 102,
+        "roomNumber": 2,
         "roomName": "Premium Beachfront Villa",
         "description": "An exclusive villa with direct beach access and private amenities.",
         "roomSize": "800 sq ft",
@@ -46,7 +46,7 @@
         ]
       },
       {
-        "roomNumber": 103,
+        "roomNumber": 3,
         "roomName": "Family Suite with Balcony",
         "description": "A family-friendly suite with a private balcony and scenic views.",
         "roomSize": "600 sq ft",
@@ -69,7 +69,7 @@
         ]
       },
       {
-        "roomNumber": 104,
+        "roomNumber": 4,
         "roomName": "Panoramic Suite",
         "description": "Experience panoramic views of the city skyline in this stylish suite.",
         "roomSize": "550 sq ft",
@@ -92,7 +92,7 @@
         ]
       },
       {
-        "roomNumber": 105,
+        "roomNumber": 5,
         "roomName": "Cozy Mountain View Room",
         "description": "A cozy room with a view of the picturesque mountains.",
         "roomSize": "400 sq ft",
@@ -115,7 +115,7 @@
         ]
       },
       {
-        "roomNumber": 106,
+        "roomNumber": 6,
         "roomName": "Executive City View Suite",
         "description": "An executive suite with a commanding view of the city.",
         "roomSize": "600 sq ft",
@@ -138,7 +138,7 @@
         ]
       },
       {
-        "roomNumber": 107,
+        "roomNumber": 7,
         "roomName": "Sunset Beach Bungalow",
         "description": "A private bungalow with direct access to the beach and a view of the sunset.",
         "roomSize": "700 sq ft",
@@ -161,7 +161,7 @@
         ]
       },
       {
-        "roomNumber": 108,
+        "roomNumber": 8,
         "roomName": "Business Class Suite",
         "description": "A sophisticated suite designed for business travelers with modern amenities.",
         "roomSize": "500 sq ft",
@@ -184,7 +184,7 @@
         ]
       },
       {
-        "roomNumber": 109,
+        "roomNumber": 9,
         "roomName": "Family Oceanfront Suite",
         "description": "A spacious suite with direct oceanfront views, perfect for family vacations.",
         "roomSize": "700 sq ft",
@@ -207,7 +207,7 @@
         ]
       },
       {
-        "roomNumber": 110,
+        "roomNumber": 10,
         "roomName": "Classic Garden View Room",
         "description": "A classic room with a serene view of the hotel's beautiful garden.",
         "roomSize": "350 sq ft",
@@ -230,7 +230,7 @@
         ]
       },
       {
-        "roomNumber": 111,
+        "roomNumber": 11,
         "roomName": "Skyline View Studio",
         "description": "A stylish studio with panoramic views of the city skyline.",
         "roomSize": "450 sq ft",
@@ -253,7 +253,7 @@
         ]
       },
       {
-        "roomNumber": 112,
+        "roomNumber": 12,
         "roomName": "Nature Retreat Cabin",
         "description": "A cozy cabin nestled in nature with scenic views and rustic charm.",
         "roomSize": "300 sq ft",
@@ -276,7 +276,7 @@
         ]
       },
       {
-        "roomNumber": 113,
+        "roomNumber": 13,
         "roomName": "Cityscape View Loft",
         "description": "A trendy loft with expansive windows offering panoramic cityscape views.",
         "roomSize": "500 sq ft",
@@ -299,7 +299,7 @@
         ]
       },
       {
-        "roomNumber": 114,
+        "roomNumber": 14,
         "roomName": "Riverside Retreat Cottage",
         "description": "A charming cottage by the riverside, providing a serene and peaceful escape.",
         "roomSize": "400 sq ft",
@@ -322,7 +322,7 @@
         ]
       },
       {
-        "roomNumber": 115,
+        "roomNumber": 15,
         "roomName": "Economy Single Room",
         "description": "A cozy single room suitable for solo travelers on a budget.",
         "roomSize": "200 sq ft",

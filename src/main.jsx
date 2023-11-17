@@ -9,6 +9,7 @@ import {
 import Home from './Components/pages/Home.jsx';
 import Service from './Components/pages/Service.jsx';
 import Rooms from './Components/pages/Rooms.jsx';
+import RoomShowData from './Components/RoomShowData.jsx';
 
 
 const router = createBrowserRouter([
@@ -29,6 +30,11 @@ const router = createBrowserRouter([
         path: "room",
         element: <Rooms></Rooms>,
         loader:()=> fetch("/public/roomData.json"),
+      },
+      {
+        path: "roomshowdata",
+        element:<RoomShowData></RoomShowData>
+       
       }
     ]
   },

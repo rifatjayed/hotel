@@ -17,7 +17,7 @@ const Rooms = () => {
             </div>
           
 
-            <div className='grid grid-cols-3 gap-4 justify-items-center'>
+            <div className='grid grid-cols-3 gap-4 justify-items-center '>
                 {
                     rooms.slice(0, 9).map(room => <RoomsDetails
                         key={room.id}
@@ -33,7 +33,7 @@ const Rooms = () => {
                 ) : null}
 
                 {!showMore &&
-                    (<div className='text-center my-5'>
+                    (<div className=' my-5'>
                         <p className='btn' onClick={() => { setShowMore(true) }}>See All Rooms</p>
                     </div>)}
             </div>
