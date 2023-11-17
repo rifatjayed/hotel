@@ -13,6 +13,7 @@ const Hero = () => {
     </div>
   </div> 
   <div id="slide2" className="carousel-item relative w-full">
+    <h1>hellow</h1>
     <img src="/src/assets/img/rt002.jpg" className="w-full" />
     <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
       <a href="#slide1" className="btn btn-circle">❮</a> 

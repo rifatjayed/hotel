@@ -28,6 +28,7 @@ const router = createBrowserRouter([
       {
         path: "room",
         element: <Rooms></Rooms>,
+        loader:()=> fetch("/public/roomData.json"),
       }
     ]
   },

@@ -7,7 +7,7 @@
         "bed": "King-size bed",
         "view": "Ocean View",
         "price": 300,
-        "imgUrl":"/src/assets/img/studio-sea-view.jpg",
+        "imgUrl":"/src/assets/img/room1 (1).jpg",
         "smoking": false,
         "reviews": [
           {
@@ -30,7 +30,7 @@
         "bed": "California King-size bed",
         "view": "Beachfront View",
         "price": 500,
-        "imgUrl":"/src/assets/img/royal-paradise-suite.jpg",
+        "imgUrl":"/src/assets/img/room1 (2).jpg",
         "smoking": false,
         "reviews": [
           {
@@ -53,7 +53,7 @@
         "bed": "Queen-size bed, Twin-size bunk beds",
         "view": "Garden View",
         "price": 400,
-        "imgUrl":"/src/assets/img/studio-sea-view.jpg",
+        "imgUrl":"/src/assets/img/room1 (3).jpg",
         "smoking": false,
         "reviews": [
           {
@@ -76,6 +76,7 @@
         "bed": "King-size bed",
         "view": "City Skyline View",
         "price": 350,
+        "imgUrl":"/src/assets/img/room1 (4).jpg",
         "smoking": false,
         "reviews": [
           {
@@ -98,6 +99,7 @@
         "bed": "Double bed",
         "view": "Mountain View",
         "price": 250,
+        "imgUrl":"/src/assets/img/room1 (5).jpg",
         "smoking": true,
         "reviews": [
           {
@@ -120,6 +122,7 @@
         "bed": "King-size bed",
         "view": "City View",
         "price": 400,
+        "imgUrl":"/src/assets/img/room1 (6).jpg",
         "smoking": false,
         "reviews": [
           {
@@ -142,6 +145,7 @@
         "bed": "California King-size bed",
         "view": "Beachfront View",
         "price": 550,
+        "imgUrl":"/src/assets/img/room1 (7).jpg",
         "smoking": false,
         "reviews": [
           {
@@ -164,6 +168,7 @@
         "bed": "King-size bed",
         "view": "City View",
         "price": 350,
+        "imgUrl":"/src/assets/img/room1 (8).jpg",
         "smoking": false,
         "reviews": [
           {
@@ -186,6 +191,7 @@
         "bed": "King-size bed, Twin-size sofa bed",
         "view": "Oceanfront View",
         "price": 450,
+        "imgUrl":"/src/assets/img/room1 (1).jpg",
         "smoking": false,
         "reviews": [
           {
@@ -208,6 +214,7 @@
         "bed": "Queen-size bed",
         "view": "Garden View",
         "price": 200,
+        "imgUrl":"/src/assets/img/room1 (2).jpg",
         "smoking": true,
         "reviews": [
           {
@@ -230,6 +237,7 @@
         "bed": "Queen-size bed",
         "view": "City Skyline View",
         "price": 300,
+        "imgUrl":"/src/assets/img/room1 (3).jpg",
         "smoking": false,
         "reviews": [
           {
@@ -252,6 +260,7 @@
         "bed": "Double bed",
         "view": "Nature View",
         "price": 150,
+        "imgUrl":"/src/assets/img/room1 (4).jpg",
         "smoking": true,
         "reviews": [
           {
@@ -274,6 +283,7 @@
         "bed": "King-size bed",
         "view": "Cityscape View",
         "price": 350,
+        "imgUrl":"/src/assets/img/room1 (6).jpg",
         "smoking": false,
         "reviews": [
           {
@@ -296,6 +306,7 @@
         "bed": "Queen-size bed",
         "view": "Riverside View",
         "price": 250,
+        "imgUrl":"/src/assets/img/room1 (7).jpg",
         "smoking": true,
         "reviews": [
           {
@@ -318,6 +329,7 @@
         "bed": "Twin-size bed",
         "view": "City View",
         "price": 80,
+        "imgUrl":"/src/assets/img/room1 (8).jpg",
         "smoking": true,
         "reviews": [
           {

@@ -10,7 +10,7 @@ function App() {
     <>
 
 
-      {/* <Nav></Nav> */}
+      <Nav></Nav>
       <Outlet></Outlet>
 
     </>
