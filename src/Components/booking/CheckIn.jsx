@@ -5,7 +5,6 @@ import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css"; 
 
 
-// import { BsCalendar } from "react-icons/bs";
 import { FaRegCalendarAlt } from "react-icons/fa";
 
 
