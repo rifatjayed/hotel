@@ -9,7 +9,7 @@ import {
 import Home from './Components/pages/Home.jsx';
 import Service from './Components/pages/Service.jsx';
 import Rooms from './Components/pages/Rooms.jsx';
-import RoomShowData from './Components/RoomShowData.jsx';
+import RoomProvider from './Components/context/RoomProvider.jsx';
 
 
 const router = createBrowserRouter([
@@ -20,7 +20,7 @@ const router = createBrowserRouter([
       {
         path: "/",
         element: <Home></Home>,
-        loader:()=> fetch("/public/roomData.json"),
+
       },
       {
         path: "service",
@@ -29,11 +29,11 @@ const router = createBrowserRouter([
       {
         path: "room",
         element: <Rooms></Rooms>,
-        loader:()=> fetch("/public/roomData.json"),
+
       },
       {
-        path: "roomshowdata",
-        element:<RoomShowData></RoomShowData>
+        path: "roomcontext",
+        element:<RoomProvider></RoomProvider>
        
       }
     ]
@@ -41,7 +41,9 @@ const router = createBrowserRouter([
 ]);
 
 ReactDOM.createRoot(document.getElementById('root')).render(
+  <RoomProvider>
   <React.StrictMode>
   <RouterProvider router={router} />
   </React.StrictMode>,
+  </RoomProvider>
 )

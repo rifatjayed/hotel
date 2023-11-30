@@ -1,9 +1,12 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
+
 const RoomsDetails = ({room}) => {
-   const {roomNumber,roomName,price,imgUrl}=room
-//    console.log{room}
+
+
+   const {roomName,price,imgUrl,id}=room
+
     return (
         <div className=' '>
         
@@ -17,7 +20,7 @@ const RoomsDetails = ({room}) => {
           </h2>
           <p>If a dog chews shoes whose shoes does he choose?</p>
           <div className="card-actions justify-end">
-          <Link  to={`/roomshowdata`}><button className='btn mb-0'>View Details</button></Link>
+          <Link  to={`./roomdetails/${id}`}><button className='btn mb-0'>View Details</button></Link>
           </div>
         </div>
       </div>  
