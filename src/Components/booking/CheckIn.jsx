@@ -12,7 +12,7 @@ const CheckIn = () => {
 
     const [startDate, setStartDate] =useState(false)
     return (
-        <div className='relative flex items-center justify-end h-full '>
+        <div className='relative flex items-center justify-end '>
            
             <div className='absolute z-10 pr-2'>
                 <div>

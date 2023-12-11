@@ -1,42 +1,41 @@
 import React from 'react';
 
+import { MdFamilyRestroom } from "react-icons/md";
 const Adults = () => {
     return (
         <div>
-          
-            {/* <div className="dropdown h-full">
-                <div tabIndex={0} role="button" className="btn m-1">Click</div>
-                <ul className="dropdown-content z-[1] menu p-2 shadow bg-base-100 rounded-box w-52">
-                    <li><a>Item 1</a></li>
-                    <li><a>Item 2</a></li>
-                </ul>
-            </div> */}
+            <div className='relative flex items-center justify-end '>
+                <div className='absolute z-10 pr-2'>
+                    <div>
 
+                        <MdFamilyRestroom className='text-[#F28E13] text-lg' />
+                    </div>
+                </div>
+                <div>
+                
 
-{/* <select data-te-select-init placeholder='kids'>
-  <option value="1">One</option>
-  <option value="2">Two</option>
-  <option value="3">Three</option>
-  <option value="4">Four</option>
-  <option value="5">Five</option>
-  <option value="6">Six</option>
-  <option value="7">Seven</option>
-  <option value="8">Eight</option>
-</select> */}
+                    <select class="w-[250px]  block appearance-none f-full text-lg font-roboto text-[#747474] bg-white border border-gray-400 hover:border-gray-500 px-4 py-2 pr-8 rounded shadow leading-tight focus:outline-none focus:shadow-outline">
 
+                        <option>Adults 1</option>
+                        <option>Adults 2</option>
+                        <option>Adults 3</option>
+                        <option>Adults 4</option>
+                    </select>
+                </div>
 
 
 
-
-
-
-
-
-
-
-
-
+            </div>
         </div>
+
+
+
+
+
+
+
+
+
     );
 };
 
